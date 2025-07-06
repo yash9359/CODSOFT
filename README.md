@@ -13,6 +13,10 @@ Getting Started
 Screenshots (Optional)
 License
 Author
+
+
+
+
 1. ✅ To-Do List
 A simple command-line based To-Do List application to add, view, and remove tasks. Tasks are saved in a local file so they persist between sessions.
 
