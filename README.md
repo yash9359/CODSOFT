@@ -23,7 +23,10 @@ Add new tasks
 View current task list
 Delete tasks
 Save and load tasks from a file
+
+
 2. Calculator 🧮
+
 A basic calculator application using Python that performs simple arithmetic operations.
 
 Features:
@@ -32,8 +35,11 @@ Addition, Subtraction
 Multiplication, Division
 Handles invalid inputs with error messages
 User-friendly menu-driven interface
+
 3. Rock Paper Scissors Game ✊🖐✌️
+
 A fun command-line Rock Paper Scissors game to play against the computer.
+
 
 Features:
 
