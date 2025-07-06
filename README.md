@@ -1,18 +1,4 @@
-# CODSOFT
 
-🐍 Python Projects - CodSoft Internship 💻
-This repository contains three beginner-level Python projects developed as part of my CodSoft Internship. Each project is designed to strengthen my Python programming skills and demonstrate understanding of core concepts like control structures, functions, input/output handling, and basic GUI/CLI logic.
-
-🔗 Table of Contents
-Projects Overview
-1. To-Do List
-2. Calculator
-3. Rock Paper Scissors Game
-Technologies Used
-Getting Started
-Screenshots (Optional)
-License
-Author
 
 
 
